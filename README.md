@@ -1,4 +1,4 @@
-# Lets_Go_Team
+# Go_Team_Go
 
 ## User Story
 

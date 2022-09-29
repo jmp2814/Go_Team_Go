@@ -1,0 +1,23 @@
+{
+  "name": "letsgoteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "employeeTest": "jest ./_tests_/Employee.test.js",
+    "engineerTest": "jest ./_tests_/Engineer.test.js",
+    "InternTest": "jest ./_tests_/Intern.test.js",
+    "ManagerTest": "jest ./_tests_/Manager.test.js",
+    "watch": "jest --watchAll"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}

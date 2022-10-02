@@ -1,3 +1,4 @@
+
 # Go_Team_Go
 
 ## User Story
@@ -27,3 +28,4 @@ SO THAT I have quick access to their emails and GitHub profiles
 - THEN I exit the application, and the HTML is generated
 
 ## Screenshots
+![team1](https://user-images.githubusercontent.com/103081923/193458405-6901b6e0-0617-4b47-8cab-bc5de543d57f.JPG)
